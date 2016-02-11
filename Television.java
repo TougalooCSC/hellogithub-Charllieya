@@ -1,5 +1,5 @@
 // The purpose of this class is to model a television
-// Cornelius Toole 2/9/16
+// Charllieya Smith  2/9/16
 public class Television{
   // the television's brand name
   private final String MANUFACTURER;
