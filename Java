@@ -1,0 +1,14 @@
+public class ForLoop 
+{
+public static void main (String[] args)
+{
+int loopVal ;
+int end_value = 11;
+
+for (loopVal = 1; loopVal < end_value; loopVal++) 
+{
+System.out.println("Loop Value = " + loopVal);
+}
+}
+
+}
